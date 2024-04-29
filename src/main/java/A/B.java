@@ -5,4 +5,8 @@ public class B {
     int testconflict;
     int mergeconflict;
     int rebase;
+
+    public static void suraj() {
+        System.out.println("PR from Suraj");
+    }
 }
